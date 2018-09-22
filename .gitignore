@@ -1,2 +1,4 @@
 weather-app/node_modules/
-
+tasks-app/node_modules/*
+tasks-app/notes/
+like-photon/node_modules/
