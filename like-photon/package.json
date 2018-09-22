@@ -1,0 +1,21 @@
+{
+  "name": "like-photon",
+  "version": "1.0.0",
+  "description": "photon like",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "none"
+  },
+  "keywords": [
+    "none"
+  ],
+  "author": "Prateek",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
