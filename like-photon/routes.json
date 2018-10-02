@@ -1,0 +1,14 @@
+{
+    "/":{
+        "module":"home"
+    },
+    "/index":{
+        "module":"home"
+    },
+    "/home":{
+        "module":"home"
+    },
+    "/other":{
+        "module":"other"
+    }
+}
